@@ -1,0 +1,50 @@
+# Geotechnicalengineering — Markham
+
+> Geotechnical engineering services in Markham, Canada.
+
+## Services
+- [Anchors](https://markham.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://markham.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://markham.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://markham.geotechnicalengineering.co/cpt-test/)
+- [Excavations](https://markham.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://markham.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://markham.geotechnicalengineering.co/footings/)
+- [Foundations](https://markham.geotechnicalengineering.co/foundations/)
+- [Geophysics](https://markham.geotechnicalengineering.co/geophysics/)
+- [Grain Size](https://markham.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://markham.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://markham.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://markham.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://markham.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://markham.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://markham.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://markham.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://markham.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://markham.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://markham.geotechnicalengineering.co/piles/)
+- [Plate Load Test](https://markham.geotechnicalengineering.co/plate-load-test/)
+- [Resistivity](https://markham.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://markham.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://markham.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://markham.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://markham.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://markham.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://markham.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://markham.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://markham.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://markham.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://markham.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://markham.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://markham.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://markham.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://markham.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://markham.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://markham.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://markham.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Markham, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
